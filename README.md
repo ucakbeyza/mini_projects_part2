@@ -1,1 +1,1 @@
-short projects explaining conditional statements in Java
+* short projects explaining conditional statements in Java
